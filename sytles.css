@@ -1,0 +1,51 @@
+.hero,
+.footer,
+.header {
+    background-color: #1f2937;
+    color: white;
+}
+
+.main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-style: bold;
+    display: flex;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button,
+.bottom-box {
+    background: #3882f6;
+    color: white;
+}
+
+.box {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+}
+
+.photos {
+    font-size: 18px;
+    color: gray;
+}
+
+.quote {
+    background: #e5e7eb;
+    font-size: 36px;
+    color: gray;
+    font-style: italic;
+}
+
+b {
+    font-size: 22px;
+}
+
+.header-link {
+    display: flex;
+    justify-content: flex-end;
+}
